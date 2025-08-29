@@ -13,22 +13,22 @@ We're starting small and releasing new components and layout blocks every week t
 
 ## 🚀 Upcoming Components & Blocks
 
-### 🗓 First Week
+### First Week
 - **Button** — Primary / Secondary / Outline  
 - **Typography** — Heading, Paragraph  
 - **Hero Section Block** — Heading + Subheading + CTA  
 
-### 🗓 Second Week
+### Second Week
 - **Badge/Tag** — Success, Warning, Error, Info  
 - **Card Component** — With image, text, and button  
 
-### 🗓 Third Week
+### Third Week
 - **Pricing Table Block** — 3-tier pricing with CTA  
 - **Dropdown Menu**  
 - **Navbar Component** — Responsive  
 - **Sidebar Layout**  
 
-### 🗓 Fourth Week
+### Fourth Week
 - **Bento Grid**  
 - **Footer Block** — Links + Social Icons  
 - **Input Field** — Text, Password, Email  
@@ -70,4 +70,5 @@ We'll be sharing progress on:
 **MIT License** — Free to use, modify, and build on.
 
 ---
+
 
