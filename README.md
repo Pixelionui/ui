@@ -1,4 +1,4 @@
-![alt text]![alt text](https://github.com/connectwithshivamk/connectwithshivamk/blob/main/SlashUI-GIthub-Banner.png?raw=true)
+![alt text](https://github.com/connectwithshivamk/connectwithshivamk/blob/main/SlashUI-GIthub-Banner.png?raw=true)
 
 # Pixelion-ui
 
@@ -71,6 +71,7 @@ We'll be sharing progress on:
 **MIT License** — Free to use, modify, and build on.
 
 ---
+
 
 
 
